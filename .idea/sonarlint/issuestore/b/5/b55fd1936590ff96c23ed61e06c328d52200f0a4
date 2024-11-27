@@ -1,0 +1,5 @@
+
+l	java:S116"PRename this field "st_Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸´8¥ïÏ®¶2
+p	java:S116"TRename this field "ID_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şªç8ªïÏ®¶2
+r	java:S116"QRename this field "f_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïï³œùÿÿÿÿ8ªïÏ®¶2
+l	java:S116"QRename this field "l_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Îä?8«ïÏ®¶2
