@@ -3,17 +3,15 @@ package org.example.controller;
 import lombok.RequiredArgsConstructor;
 import org.example.dto.Student;
 import org.example.entity.StudentEntity;
-import org.example.service.impl.BookService;
+import org.example.service.impl.StudentServiceimpl;
 import org.springframework.web.bind.annotation.*;
-
-import java.awt.print.Book;
 
 @RestController
 @RequestMapping("/student")
 @RequiredArgsConstructor
 @CrossOrigin
 public class StudentController {
-    final BookService service;
+   final StudentServiceimpl service;
 
     @PostMapping("/addStudent")
     public  void addStudent(@RequestBody Student student){

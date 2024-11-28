@@ -36,3 +36,9 @@ G.idea/sonarlint/issuestore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b,f\d\fd
 Q.idea/sonarlint/securityhotspotstore/b/5/b55fd1936590ff96c23ed61e06c328d52200f0a4,b\4\b45ae9504a237e8ccd00f00fb48f520faa4dc453
 w
 G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8\6\863e0292fd7e9b3e74dafd6cc01f73ba76346482
+j
+:src/main/java/org/example/service/impl/StudentService.java,f\6\f6682783b6b6925f0878b402a825ab0217d9caab
+n
+>src/main/java/org/example/service/impl/StudentServiceimpl.java,9\f\9f717ecd65b1d6ef14549ecf37a1a238e819c0cc
+d
+4src/main/java/org/example/repository/Repository.java,3\8\383d21dc53e58a073250f0d50e2f5f8b0566b328
