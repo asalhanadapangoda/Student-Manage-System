@@ -7,7 +7,7 @@ import org.example.service.impl.StudentServiceimpl;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("/student")
+@RequestMapping("/ger")
 @RequiredArgsConstructor
 @CrossOrigin
 public class StudentController {
